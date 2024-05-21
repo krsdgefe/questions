@@ -2,5 +2,9 @@
   "name": "questions",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^12.1.0",
+    "ws": "^8.17.0"
+  }
 }
