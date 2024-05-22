@@ -4,6 +4,7 @@
   "main": "app.js",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "firebase-admin": "^12.1.0",
     "ws": "^8.17.0"
   }
