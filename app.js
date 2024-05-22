@@ -18,6 +18,7 @@ admin.initializeApp({
     })
 });
 
+
 const db = admin.firestore();
 const wss = new WebSocket.Server({ port: 8080 });
 
